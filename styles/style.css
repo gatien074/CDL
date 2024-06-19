@@ -1,0 +1,152 @@
+/* reset css */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+   background-color: #9e0c39;
+}
+
+header{
+    width: 100%;
+    height: 70px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 25px 25px;
+} 
+
+ .img{
+    height: 49px;
+    max-width: 200%;
+ }
+
+ .logo{
+    display: flex;
+ }
+
+ button{
+    display: flex;
+    width: 117px;
+    height: 30px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    background-color: #9e0c39;
+    color: #ffff;
+    border: 1px solid #ffff;
+    gap: 4px;
+    
+ }
+
+ 
+ .p{
+    font-size: 18px;
+    color: #ffff;
+ }
+
+ h1{
+    width: 500px;
+    height: 30px;
+    color: #ffff;
+ }
+
+ .h1{
+    display: flex;
+
+    width: 450px;
+    height: 40px;
+    margin-left: 74px;
+    margin-bottom: 5px;
+}
+
+ .fleche{
+    width: 18px;
+    height: 23px;
+    max-width: 321%;
+    margin-left: 4px;
+ }
+
+ .google{
+    width: 12px;
+    height: 12px;
+    max-width: 321%;
+    margin-left: -9px;
+ }
+ .card1{
+    display: flex;
+    gap: 45px;
+    margin-left: 74px;
+    max-width: 556%;
+ }
+
+.imp{
+    width: 153px;
+    height: 100px;
+    max-width: 321%;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+
+.user{
+    width: 153px;
+    height: 100px;
+    max-width: 321%;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+
+}
+
+.card1_user{
+   display: flex;
+   flex-direction: column;
+   border-top-left-radius: 6px;
+   border-top-right-radius: 6px;
+}
+
+.card2{
+    display: flex;
+    gap: 45px;
+    margin-left: 74px;
+    margin-top: 54px;
+    max-width: 556%;
+}
+
+.reseau{
+    width: 153px;
+    height: 100px;
+    max-width: 321%;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+
+.cash{
+    width: 153px;
+    height: 100px;
+    max-width: 321%;
+    max-width: 153%;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+
+p{
+    flex-direction: column;
+    align-items: center;
+   text-align: center;
+   background-color: #70b6ef;
+   color: #ffff;
+   border-bottom-left-radius: 6px;
+   border-bottom-right-radius: 6px;
+  
+}
+
+.main{
+    margin-top: 50px; 
+}
+
+
